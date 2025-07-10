@@ -24,8 +24,7 @@ A beautifully designed weather application that allows users to check real-time 
 
 ## 🔐 API Key Notice
 
-The app uses this public WeatherAPI key: efadc877d2aa433dbca50942251007
-
+The app uses public WeatherAPI key
 
 ⚠️ **Important**: This key may **expire** or hit its **free usage limit**, causing the app to stop showing results.
 
